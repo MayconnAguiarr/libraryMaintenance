@@ -7,13 +7,22 @@
 	height:30px;
 }
 
-.perfil {
+.profile {
 	padding: 10px;
 	width: 300px;
 }
 
-.perfil li:first-child {
+.profile li:first-child {
 	font-size: 1.3em;
 	font-weight: bold;
 	margin-bottom: 2px;
+}
+
+.header h1 {
+	margin: 0;
+	font-size: 3em;
+}
+
+.header {
+	margin-top: 12px;
 }
