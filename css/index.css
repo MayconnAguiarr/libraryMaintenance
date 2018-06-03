@@ -23,6 +23,14 @@
 	font-size: 3em;
 }
 
-.header {
+.search {
 	margin-top: 12px;
+}
+
+.dados-os {
+	margin-top: 30px;
+}
+
+.page .pagination {
+	margin: 0;
 }
