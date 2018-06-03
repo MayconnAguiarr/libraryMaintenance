@@ -1,0 +1,19 @@
+.logotipo {
+	padding: 10px;
+	margin-right: 20px;
+}
+
+.logotipo img {
+	height:30px;
+}
+
+.perfil {
+	padding: 10px;
+	width: 300px;
+}
+
+.perfil li:first-child {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
